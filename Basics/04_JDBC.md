@@ -56,7 +56,4 @@ The Application will become Database Dependent and creates Maintenance Problems.
 
 #### Differences Between JDBC and ODBC
 
-![ODBC](Images\ODBC.png)
-
-
-
+![ODBC](M:\CODING\PROGRAMER729\JAVA JDBC\Images\ODBC.png)
