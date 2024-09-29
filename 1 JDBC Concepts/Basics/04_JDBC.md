@@ -57,3 +57,14 @@ The Application will become Database Dependent and creates Maintenance Problems.
 #### Differences Between JDBC and ODBC
 
 ![ODBC](https://github.com/Mayurpatil729/JAVA-JDBC/blob/5ef32871da84e91e844a03f52ba522b603e491d5/Images/ODBC.png)
+
+##### Dependent
+
+1. JAVA is platform independent.
+2. JVM is platform dependent.
+
+3. JAVA is Database independent.
+4. Driver is Database dependent.
+
+
+
